@@ -2,7 +2,7 @@ from twitterBot import InternetSpeedTwitterBot
 
 PROMISED_UP = 500
 PROMISED_DOWN = 500
-PROVIDER = "users_provider"
+PROVIDER = "@users_provider"
 USER_NAME = "users_login"
 PASSWORD = "users_password"
 
